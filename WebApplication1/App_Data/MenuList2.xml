@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Home>
+  <Menu text="Masters" url="~/ApplicationStart.aspx">
+    <SubMenu text="User Management" url="~/Tenant/UserForm.aspx"></SubMenu>
+    <SubMenu text="Preferences" url="~/Tenant/PreferenceForm.aspx"></SubMenu>
+    <SubMenu text="Company Info" url="~/Tenant/CompanySheet.aspx"></SubMenu>
+  </Menu>
+  <Menu text="Transactions"  url="MenuFromXml.aspx">
+    <SubMenu text="Camera" url="MenuFromXml.aspx">
+      <SubMenu text="Digital" url="MenuFromXml.aspx">
+        <SubMenu text="Canon" url="MenuFromXml.aspx"></SubMenu>
+        <SubMenu text="Kodak" url="MenuFromXml.aspx"></SubMenu>
+        <SubMenu text="Sony" url="MenuFromXml.aspx"></SubMenu>
+        <SubMenu text="Casio" url="MenuFromXml.aspx"></SubMenu>
+        <SubMenu text="Fuji" url="MenuFromXml.aspx"></SubMenu>
+      </SubMenu>
+      <SubMenu text="Film Camera" url="MenuFromXml.aspx"></SubMenu>
+    </SubMenu>
+    <SubMenu text="DVDs" url="MenuFromXml.aspx">
+      <SubMenu text="Comedy" url="MenuFromXml.aspx">
+        <SubMenu text="English" url="MenuFromXml.aspx"></SubMenu>
+        <SubMenu text="French" url="MenuFromXml.aspx"></SubMenu>
+        <SubMenu text="German" url="MenuFromXml.aspx"></SubMenu>
+        <SubMenu text="Spanish" url="MenuFromXml.aspx"></SubMenu>
+      </SubMenu>
+      <SubMenu text="Kids Movies" url="MenuFromXml.aspx"></SubMenu>
+      <SubMenu text="Romance Movies" url="MenuFromXml.aspx"></SubMenu>
+      <SubMenu text="Action Movies" url="MenuFromXml.aspx"></SubMenu>
+    </SubMenu>
+  </Menu>
+  <Menu text="FAQ" url="~/FAQ.aspx"></Menu>
+  <Menu text="Help" url="~/Help.aspx"></Menu>
+  <Menu text="Logout" url="~/Index.aspx?message=You are logged out from the system..."></Menu>
+
+</Home>

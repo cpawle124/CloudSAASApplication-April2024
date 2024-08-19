@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Themes>
+    <Theme>
+        <Text>Theme - Blue</Text>
+        <Value>Theme1</Value>
+    </Theme>
+
+    <Theme>
+        <Text>Theme - Grey</Text>
+        <Value>Theme2</Value>
+    </Theme>
+
+    <Theme>
+        <Text>Theme - Green</Text>
+        <Value>Theme3</Value>
+    </Theme>
+    
+</Themes>

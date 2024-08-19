@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\CloudSAASApplication-April2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8793F70F-B386-424D-B7C2-2B0FB11F0591}|WebApplication1\\WebApplication1.csproj|D:\\Projects\\CloudSAASApplication-April2024\\webapplication1\\application.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8793F70F-B386-424D-B7C2-2B0FB11F0591}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\application.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8793F70F-B386-424D-B7C2-2B0FB11F0591}|WebApplication1\\WebApplication1.csproj|d:\\projects\\cloudsaasapplication-april2024\\webapplication1\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8793F70F-B386-424D-B7C2-2B0FB11F0591}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8793F70F-B386-424D-B7C2-2B0FB11F0591}|WebApplication1\\WebApplication1.csproj|d:\\projects\\cloudsaasapplication-april2024\\webapplication1\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8793F70F-B386-424D-B7C2-2B0FB11F0591}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8793F70F-B386-424D-B7C2-2B0FB11F0591}|WebApplication1\\WebApplication1.csproj|d:\\projects\\cloudsaasapplication-april2024\\webapplication1\\app_data\\menulist3.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8793F70F-B386-424D-B7C2-2B0FB11F0591}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\app_data\\menulist3.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8793F70F-B386-424D-B7C2-2B0FB11F0591}|WebApplication1\\WebApplication1.csproj|d:\\projects\\cloudsaasapplication-april2024\\webapplication1\\application.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{8793F70F-B386-424D-B7C2-2B0FB11F0591}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\application.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 502,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuList3.xml",
+              "DocumentMoniker": "D:\\Projects\\CloudSAASApplication-April2024\\WebApplication1\\App_Data\\MenuList3.xml",
+              "RelativeDocumentMoniker": "WebApplication1\\App_Data\\MenuList3.xml",
+              "ToolTip": "D:\\Projects\\CloudSAASApplication-April2024\\WebApplication1\\App_Data\\MenuList3.xml",
+              "RelativeToolTip": "WebApplication1\\App_Data\\MenuList3.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-20T15:42:44.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Application.Master",
+              "DocumentMoniker": "D:\\Projects\\CloudSAASApplication-April2024\\WebApplication1\\Application.Master",
+              "RelativeDocumentMoniker": "WebApplication1\\Application.Master",
+              "ToolTip": "D:\\Projects\\CloudSAASApplication-April2024\\WebApplication1\\Application.Master",
+              "RelativeToolTip": "WebApplication1\\Application.Master",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-20T15:40:29.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.aspx.cs",
+              "DocumentMoniker": "D:\\Projects\\CloudSAASApplication-April2024\\WebApplication1\\Index.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Index.aspx.cs",
+              "ToolTip": "D:\\Projects\\CloudSAASApplication-April2024\\WebApplication1\\Index.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\Index.aspx.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T15:12:35.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.aspx",
+              "DocumentMoniker": "D:\\Projects\\CloudSAASApplication-April2024\\WebApplication1\\Index.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Index.aspx",
+              "ToolTip": "D:\\Projects\\CloudSAASApplication-April2024\\WebApplication1\\Index.aspx",
+              "RelativeToolTip": "WebApplication1\\Index.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-12T10:19:00.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Application.Master.cs",
+              "DocumentMoniker": "D:\\Projects\\CloudSAASApplication-April2024\\WebApplication1\\Application.Master.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Application.Master.cs",
+              "ToolTip": "D:\\Projects\\CloudSAASApplication-April2024\\WebApplication1\\Application.Master.cs",
+              "RelativeToolTip": "WebApplication1\\Application.Master.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAwwDMAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:50:09.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 129,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 93,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

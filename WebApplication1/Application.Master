@@ -1,0 +1,56 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Application.master.cs" Inherits="WebApplication1.Application" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 105px;
+            height: 66px;
+        }
+    </style>
+</head>
+<body style="margin-left: 2px; margin-top: 2px; background-color: #CDCDDE">
+    <form id="form1" runat="server">
+        <div>
+            <table border="1" width="100%" id="table1" cellspacing="0" cellpadding="0" height="120">
+                <tr>
+                    <td style="background-color: #3F3F5F">
+                        <asp:Label ID="Label1" runat="server" Font-Names="Arial Black" Font-Size="XX-Large" ForeColor="White" Style="z-index: 1; left: 125px; top: 20px; position: absolute" Text="Cloud Management Service" EnableTheming="False"></asp:Label>
+                        <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/WS2.jpg" style="position: absolute; top: 15px; left: 15px;" />
+                        <asp:Menu ID="Menu1" runat="server" Style="z-index: 2; left: 300px; top: 80px; position: absolute;"
+                            BackColor="#B5C7DE" BorderColor="#333399" BorderStyle="Solid" BorderWidth="1px"
+                            DynamicHorizontalOffset="2" Font-Names="Arial" Font-Size="Small" ForeColor="#284E98"
+                            Orientation="Horizontal" StaticSubMenuIndent="10px" DataSourceID="XmlDataSource1"
+                            StaticDisplayLevels="2" MaximumDynamicDisplayLevels="4">
+                            <DynamicHoverStyle BackColor="#284E98" ForeColor="White" />
+                            <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                            <DynamicMenuStyle BackColor="#B5C7DE" BorderColor="#000066" BorderStyle="Solid"
+                                BorderWidth="1px" />
+                            <DynamicSelectedStyle BackColor="#507CD1" />
+                            <DataBindings>
+                                <asp:MenuItemBinding DataMember="Menu" TextField="text" ValueField="text" NavigateUrlField="url" />
+                                <asp:MenuItemBinding DataMember="SubMenu" NavigateUrlField="url" TextField="text"
+                                    ValueField="text" />
+                            </DataBindings>
+                            <StaticHoverStyle BackColor="#284E98" ForeColor="White" />
+                            <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                            <StaticSelectedStyle BackColor="#507CD1" />
+                        </asp:Menu>
+
+                        <asp:Label ID="Label20" runat="server" Font-Names="Arial" ForeColor="White" style="z-index: 1; left: 20px; top: 80px; position: absolute" EnableTheming="False"></asp:Label>
+
+                    </td>
+                </tr>
+            </table>
+            <asp:XmlDataSource ID="XmlDataSource1" runat="server"></asp:XmlDataSource>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

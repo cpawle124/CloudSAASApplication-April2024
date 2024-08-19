@@ -1,0 +1,2 @@
+git init
+git config --global --add safe.directory D:/Projects/CloudSAASApplication-April2024

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Home>
+  <Menu text="Masters" url="~/Application.aspx">
+    <SubMenu text="Customer Management (Create)" url="~/Admin/CustomerForm.aspx"></SubMenu>
+    <SubMenu text="User Management (Create)" url="~/Admin/UserForm.aspx"></SubMenu>
+    <SubMenu text="Subscription Type (Create)" url="~/Admin/SubscriptionTypeForm.aspx"></SubMenu>
+  </Menu>
+  <Menu text="Storage Transactions"  url="~/Application.aspx">
+    <SubMenu text="Table Storage" url="MenuFromXml.aspx">
+      <SubMenu text="List of Tables" url="~/Table/CloudTableList.aspx"></SubMenu>
+      <SubMenu text="Creating a Table" url="~/Table/CreateTable.aspx"></SubMenu>
+      <SubMenu text="Inserting an Entity" url="~/Table/InsertEntity.aspx"></SubMenu>
+      <SubMenu text="Records Filtering" url="~/Table/RecordsFiltering.aspx"></SubMenu>
+      <SubMenu text="Delete an Entity" url="~/Table/DeleteEntity.aspx"></SubMenu>
+      <SubMenu text="Delete a Table" url="~/Table/DeleteTable.aspx"></SubMenu>
+    </SubMenu>
+    <SubMenu text="Blob Storage" url="MenuFromXml.aspx">
+      <SubMenu text="Comedy" url="MenuFromXml.aspx">
+        <SubMenu text="English" url="MenuFromXml.aspx"></SubMenu>
+        <SubMenu text="French" url="MenuFromXml.aspx"></SubMenu>
+      </SubMenu>
+      <SubMenu text="Kids Movies" url="MenuFromXml.aspx"></SubMenu>
+      <SubMenu text="Romance Movies" url="MenuFromXml.aspx"></SubMenu>
+    </SubMenu>
+  </Menu>
+  <Menu text="FAQ" url="~/FAQ.aspx"></Menu>
+  <Menu text="Help" url="~/Help.aspx"></Menu>
+  <Menu text="Logout" url="~/Index.aspx?message=You are logged out from the system..."></Menu>
+
+</Home>
